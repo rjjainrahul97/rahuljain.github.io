@@ -1,0 +1,582 @@
+[
+  {
+    "company": "HP Inc",
+    "project": "Regular Ops",
+    "skill_bucket": "Account Management",
+    "skill": "Account Management",
+    "situation": "Responsible for managing a mix of hunting & farming global & national accounts",
+    "task": "Manage CXO Engagement, own lead-to-cash cycle, cross-sell & up-sell to grow business",
+    "activity": "Led RFPs, managed project deals, built user personas",
+    "result": "Achieved >100% target for consecutive 4 years, retained 100% SoW in key global accounts with strategic project wins",
+    "resume_line": "Advised CXOs on device policies & key projects for national & global accounts to deliver >100% achievement, SoW increment & strategic project wins",
+    "tags": [
+      "Account Management",
+      "Sales Transformation",
+      "Product Management",
+      "Program Management"
+    ]
+  },
+  {
+    "company": "HP Inc",
+    "project": "Regular Ops",
+    "skill_bucket": "Account Management",
+    "skill": "Acquisition Strategy",
+    "situation": "Manage accounts with unfavourable business relationship",
+    "task": "Generate business and improve CSAT in competitive accounts",
+    "activity": "Conducted portfolio demonstration, led objection handling & customer service improvements, specced & priced requirements with client IT & Procurement to optimize delivery & Pricing",
+    "result": "Acquired multiple competition accounts with the biggest win of a Steel manufacturer worth $2Mn",
+    "resume_line": "Acquired strategic priority accounts by utlizing portfolio breadth, addressing key pain points, & optimizing product delivery & pricing",
+    "tags": [
+      "Account Management",
+      "Sales Transformation",
+      "Pricing, CPQ, Loyalty",
+      "Program Management"
+    ]
+  },
+  {
+    "company": "HP Inc",
+    "project": "Regular Ops",
+    "skill_bucket": "Account Management",
+    "skill": "Account Development",
+    "situation": "Clients tend to purchase from multiple OEMs to spread risk",
+    "task": "Grow SoW in accounts with multiple OEMs present",
+    "activity": "Built User personas across client workforce, laid out ideal product bundles by user",
+    "result": "Achieved cross-selling via bundling & up-selling via user persona narrative",
+    "resume_line": "Unlocked new opportunity by engaging with CIO on their device security plans and won $800K Thin Client deal\nImplemented cross-selling portfolio strategy to increase share-of-wallet, CSAT scores, and 7% ASP increment",
+    "tags": [
+      "Account Management",
+      "Sales Transformation",
+      "Pricing, CPQ, Loyalty"
+    ]
+  },
+  {
+    "company": "HP Inc",
+    "project": "Regular Ops",
+    "skill_bucket": "Product Management",
+    "skill": "Product Management",
+    "situation": "Enable product transition with minimal impact on profitability across key accounts",
+    "task": "Manage product rollovers and retain account business",
+    "activity": "Align client stakeholders with upcoming portfolio, highlight key new features, explain",
+    "result": "Led successful product transitions across 4 generations of products leading to improved CSAT",
+    "resume_line": "Owned product rollover transition across critical accounts by explaining key feature uplifts to",
+    "tags": [
+      "Product Management",
+      "Program Management"
+    ]
+  },
+  {
+    "company": "HP Inc",
+    "project": "Regular Ops",
+    "skill_bucket": "Product Management",
+    "skill": "Category Management",
+    "situation": "Improve profitability across key accounts to improve long term win-rate",
+    "task": "Optimize category mix for improved offering and higher margins",
+    "activity": "Positioned accessories & displays across critical accounts by explaining productivity gains from workplace ecosystem",
+    "result": "Achieved highest Display & Accessories attachment across the country",
+    "resume_line": "Achieved highest D&A attachment ratio in the country by advising value proposition of workplace ecosystem to CIO to improve user productivity",
+    "tags": [
+      "Account Management",
+      "Pricing, CPQ, Loyalty",
+      "Product Management",
+      "Program Management"
+    ]
+  },
+  {
+    "company": "HP Inc",
+    "project": "Regular Ops",
+    "skill_bucket": "Program Management",
+    "skill": "Program Management",
+    "situation": "Manage order delivery of critical orders for successful client project turnaround",
+    "task": "Run Regular cadence with IT & Projects team communicating de-railers and ensuring timely collection",
+    "activity": "Aligned HP operations team and cliet project team on a bi-weekly cadence to avoid blockers & ensure constant communication",
+    "result": "Fast-tracked deliveries for orders worth $7Mn across 4 key accounts by 2 weeks during Covid by achieving HP leadership visibility",
+    "resume_line": "Aligned HP-Client management on potential blockers & delays due to Covid supply chain disruption to prioritize orders worth $7 Mn by 2 weeks",
+    "tags": [
+      "Account Management",
+      "Product Management",
+      "Program Management"
+    ]
+  },
+  {
+    "company": "HP Inc",
+    "project": "Regular Ops",
+    "skill_bucket": "Product Management",
+    "skill": "Pricing Strategy",
+    "situation": "Increase market share and profitability in a shrinking market",
+    "task": "Win critical deals with maximum profitability",
+    "activity": "Collaborated with senior management & category teams to align on upcoming & on-going RFPs, ongoing transactions to understand the market trends, client industry deal size pricing and deviation from linearity to improve profitability in retention accounts and win volumes from acquisition accounts",
+    "result": "Improved account acquition and profitability in retention accounts",
+    "resume_line": "Optimized pricing mix for positioned products to maximize win rate in acquisition acocunts & improve profitability in retention accounts",
+    "tags": [
+      "Account Management",
+      "Pricing, CPQ, Loyalty",
+      "Product Management"
+    ]
+  },
+  {
+    "company": "HP Inc",
+    "project": "Regular Ops",
+    "skill_bucket": "Product Management",
+    "skill": "Change Management",
+    "situation": "Lead client through critical workplace technology changes to minimize disruption and client workforce unrest",
+    "task": "Align clients on the subsequent phasing out of multiple ports, transition to USB-C and the portfolio revision needed to stay operational",
+    "activity": "Highlight key changes relevant to clients and the way forward along with the benefit of the transition",
+    "result": "Improved attach rate and favourable RFP speccing compred to competition",
+    "resume_line": "Highlighted long-term product trends to align clients on product & peripheral changes' impact on workforce and result in favourable RFP speccing",
+    "tags": [
+      "Account Management",
+      "Product Management",
+      "Program Management"
+    ]
+  },
+  {
+    "company": "HP Inc",
+    "project": "Regular Ops",
+    "skill_bucket": "Account Management",
+    "skill": "Channel Strategy",
+    "situation": "Manage a mix of hunting & farming accounts",
+    "task": "Maximize coverage across tail accounts to generate additional revenue with minimal bandwith congestion",
+    "activity": "Developed a mid-touch high engagement plan using robust partner presence",
+    "result": "Generated additional $500K per annum of recurring business",
+    "resume_line": "Devised channel strategy for mid-touch accounts to generate additional $500K as recurring revenue",
+    "tags": [
+      "Account Management",
+      "Sales Transformation"
+    ]
+  },
+  {
+    "company": "HP Inc",
+    "project": "Regular Ops",
+    "skill_bucket": "Product Management",
+    "skill": "User Journey",
+    "situation": "Become a client partner instead of relationship manager by differentiating from transactional to consultative model",
+    "task": "Showcase HP product portfolio to solve client problems and become a consulting partner",
+    "activity": "Built User personas across client workforce, laid out ideal product bundles by user",
+    "result": "Increased traction as preferred partner for CXOs, won key GCC enablement deals without going through an RFP worth $ 3 Mn including $ 600 K worth of display",
+    "resume_line": "Established HP as preferred consulting partner by addressing client pain points to win a $ 3 Mn project without going to an RFP",
+    "tags": [
+      "Account Management",
+      "Sales Transformation",
+      "Product Management"
+    ]
+  },
+  {
+    "company": "HP Inc",
+    "project": "CEPP",
+    "skill_bucket": "Program Management",
+    "skill": "E-Com Platform User Onboarding",
+    "situation": "Improve brand recall by becoming preferred brand for the client workforce(s)",
+    "task": "Onboard key accounts as corporate customers for CEPP (Corporate Employee Purchase Program)",
+    "activity": "Educated IT & procurement teams about the platform, ran special promos to deliver value to client end users",
+    "result": "Improved brand recall and end user positive sentiment",
+    "resume_line": "Led CEPP E-Com platform adoption for end users by onboarding client stakeholders to improve message reach and increase tranction for better word-of-mouth & brand recall",
+    "tags": [
+      "Product Management",
+      "Program Management"
+    ]
+  },
+  {
+    "company": "HP Inc",
+    "project": "Analyst",
+    "skill_bucket": "Quota Distribution & incentive planning",
+    "skill": "Quota Distribution & Attainment",
+    "situation": "Manage Mfg team's top-down & bottom-up quota alignment and distribution across Account Managers",
+    "task": "Deploy quota for West 1 MFG team to optimize attainment frequency against account patch",
+    "activity": "Devised excel model to match top-down & bottom up quota distribution with attainment probability based on histroical performance & current pipe",
+    "result": "Improved quota attainment frequency from 2/5 to 5/5 over 4 halves and optimized overachievement payouts by deploying in-line targets",
+    "resume_line": "Designed quota distribution for account managers based on account's historical performance and current pipeline to increase attainment frequency and taper overachievement value",
+    "tags": [
+      "Sales Transformation"
+    ]
+  },
+  {
+    "company": "HP Inc",
+    "project": "Analyst",
+    "skill_bucket": "Quota Distribution & incentive planning",
+    "skill": "Incentive & Compensation Management",
+    "situation": "Improve product mix for value products",
+    "task": "Update incentive plan to increase the focus on premium & value products",
+    "activity": "Revised incentive plan with higher accelerator for value portfolio and achivement gate on value portfolio target",
+    "result": "Increased sales of premium portfolio, displays, & accessories by 200% over a year",
+    "resume_line": "Optimized compensation parameters for the team to increase value product sales time & deal funnel by 30%",
+    "tags": [
+      "Sales Transformation",
+      "Product Management"
+    ]
+  },
+  {
+    "company": "HP Inc",
+    "project": "Client Project Advisory",
+    "skill_bucket": "CXO Advisory",
+    "skill": "Workforce Productivity Reinvention",
+    "situation": "Advise CIO & CHRO on fastest way to realize workforce productivity gains for 6000 FTE GBS setup",
+    "task": "Minimize manual confirmation and assessment TAT for users, lead end-to-end engagement till delivery and user engagement to ensure high concept utilization",
+    "activity": "Conceptualized and deployed a standardized hot-desk setup to increase visual real-estate by 17 times",
+    "result": "Resulted in increased output per employee, minimized downtime, flexible working environment resulting in upto 40% reduction in manual confirmation and assessment TAT",
+    "resume_line": "Advised CIO & business head to deploy visual real-estate expansion to enhance user productivity impacting 6000 employees by reducing document verification TAT by upto 40%",
+    "tags": [
+      "Product Management"
+    ]
+  },
+  {
+    "company": "HP Inc",
+    "project": "Client Project Advisory",
+    "skill_bucket": "CXO Advisory",
+    "skill": "Customer Experience Transformation",
+    "situation": "Improve CX by streamlining KYC & documentation process",
+    "task": "Minimize repetition requirements for end-users",
+    "activity": "Deploy duplicate & extended display setup at 200 branches for pilot",
+    "result": "Reduced KYC & courier acceptance TAT by 30% with improved detail capturing accuracy",
+    "resume_line": "Advised IT & retail team to improve CX at retail hubs by utilizing extended display PoS for courier documentation & KYC TAT reduction by upto 30%",
+    "tags": [
+      "Product Management"
+    ]
+  },
+  {
+    "company": "HP Inc",
+    "project": "Client Project Advisory",
+    "skill_bucket": "CXO Advisory",
+    "skill": "Queue Busting Billing Transformation",
+    "situation": "Introduce flexible billing capacity across ground workforce",
+    "task": "Enable ground sales team to bill clients during rush hours",
+    "activity": "Piloted tablet based solution to help product search, upsell, & execute billing & invoicing",
+    "result": "Created a hybrid sales-cashier role to increase productivity and billability of all resources",
+    "resume_line": "Guided retail client's queue busting vision by enabling workforce via novel tablet & thermal printer setup to maximize selling & billing capabilities",
+    "tags": [
+      "Sales Transformation",
+      "Product Management"
+    ]
+  },
+  {
+    "company": "HP Inc",
+    "project": "Client Project Advisory",
+    "skill_bucket": "CXO Advisory",
+    "skill": "Edge computing Enablement on Legacy infrastructure",
+    "situation": "Support client in moderning legacy manufacturing infrastructure",
+    "task": "Provide Cost-optimal solution to collect live data from legacy manufacturing infrastructure",
+    "activity": "Recommended using Digital Signange terminals to accept insutrument cluster data input and connect to internal network",
+    "result": "Helped client gain extended life out of Manufacturing CapEx",
+    "resume_line": "Supported steel manufacturer in extending CapEx investment utilization by piloting Thin Client Terminal to support edge computing data collection from legacy infrastructure",
+    "tags": [
+      "Product Management"
+    ]
+  },
+  {
+    "company": "Accenture Strategy",
+    "project": "DuluxGroup",
+    "skill_bucket": "Maturity Assessment",
+    "skill": "Current State Assessment",
+    "situation": "Assess whether client needs to improve CPQ process & tools",
+    "task": "Led 5 client SBUs on a sales quote process transformation assessment journey impacting $ 1.2 Bn annual turnover",
+    "activity": "Leveraged framework guided multi-stakeholder current and target state workshops to identify process journey pain points",
+    "result": "Devised CPQ transformation journey across 3 stages permitting cross-SBU learning translation from high maturity SBUS to low maturity SBUs",
+    "resume_line": "Assessed client's CPQ journey, identified pain points and advised to re-structure process & tools to optimize selling effort & TAT for $1.2 Bn turnover",
+    "tags": [
+      "Pricing, CPQ, Loyalty"
+    ]
+  },
+  {
+    "company": "Accenture Strategy",
+    "project": "DuluxGroup",
+    "skill_bucket": "Maturity Assessment",
+    "skill": "Opportunity Identification",
+    "situation": "Manage complex internal business structure to optimize maturity improvement",
+    "task": "Identify areas of improvement & best way to reach target state",
+    "activity": "Envisioned a leverage-optimize-build mechanism to reduce value realization time from Y3 to Y1",
+    "result": "Achieved staggered value realization by utilizing staggered pilots basis BU maturity",
+    "resume_line": "Fast-tracked value realization by staggered maturity uplift program from Y3 to Y1",
+    "tags": [
+      "Pricing, CPQ, Loyalty"
+    ]
+  },
+  {
+    "company": "Accenture Strategy",
+    "project": "DuluxGroup",
+    "skill_bucket": "Process Design",
+    "skill": "Process Design",
+    "situation": "Assess client's high growth services business for potential people, tech, process based roadblocks",
+    "task": "Carve out scaling challenges for client's services business",
+    "activity": "Identified fast-tracked services SBUs potential points of scaling failures",
+    "result": "Proposed Novel process re-structuring to meet the SBU’s 400% per annum growth targets",
+    "resume_line": "Assessed hyper-growth services business' potential scalability roadblocks to ensure 400% p.a. growth is achieved",
+    "tags": [
+      "Pricing, CPQ, Loyalty"
+    ]
+  },
+  {
+    "company": "Accenture Strategy",
+    "project": "ADNOC",
+    "skill_bucket": "Process Design",
+    "skill": "Payment Standardization",
+    "situation": "Enable client for standardizing payment proces across different customer engagement scenarios",
+    "task": "Centralize & standardize client's fragmented payment processes & tools for achieving scaled efficiencies",
+    "activity": "Create client specific payment mecahnism framework to assess device standardization & scenario creation",
+    "result": "Created novel payment mechanism framework to standardize fuel & retail post-auth billing across 8 permutations of customer engagement scenarios impacting $4.3 Bn annual revenue across 480 retails station",
+    "resume_line": "Devised 8 scenarios to cover all client engagements to shift to post-auth billing scenario for improved CX across 480 sites impacting $4.3 Bn turnover",
+    "tags": [
+      "Pricing, CPQ, Loyalty"
+    ]
+  },
+  {
+    "company": "Accenture Strategy",
+    "project": "ADNOC",
+    "skill_bucket": "Process Design",
+    "skill": "Process Design",
+    "situation": "Cover user roles across transaction journeys",
+    "task": "Design process across scenarios to show activity ownership across roles",
+    "activity": "Captured stakeholders involved across all transaction & payment scenarios",
+    "result": "Created strategy and implementation guide map and process flow requirements document for development team and bank partner teams to build supporting backend and front-end products",
+    "resume_line": "Created detailed processes with involved stakeholders & aligned feasibility with pricing, loyalty, CX, & IT teams",
+    "tags": [
+      "Pricing, CPQ, Loyalty"
+    ]
+  },
+  {
+    "company": "Accenture Strategy",
+    "project": "ADNOC",
+    "skill_bucket": "Product Management",
+    "skill": "Product Management",
+    "situation": "Bring client's processes & tools into present",
+    "task": "Ensure transition readiness to shift to singular payment terminal & post-auth payment mechanism",
+    "activity": "Collaborate with pricing, loyalty, CX, & IT teams to ensure product transition & post-auth compliance",
+    "result": "Led client engagement for Product Transition and standardization strategy impacting $4.3 Bn annual revenue across 480 retails stations by replacing 3500+ fragmented device fleet to a customized Android based Payment terminal",
+    "resume_line": "Managed Client Product rollover to integrate in payment standardization timeline",
+    "tags": [
+      "Pricing, CPQ, Loyalty",
+      "Product Management",
+      "Program Management"
+    ]
+  },
+  {
+    "company": "Accenture Strategy",
+    "project": "ADNOC",
+    "skill_bucket": "Product Management",
+    "skill": "Product Ownership",
+    "situation": "Enable partners to deploy target-state process & tools",
+    "task": "Create target-state document & RACI",
+    "activity": "Obtained sign-off on process designs and documented depednecies & transition risks",
+    "result": "Captured transition risks to minimize revenue leakage and frauds across the transaction stages",
+    "resume_line": "Documented target-state processes, dependencies, RACI, & transition risks to minimize revenue leakage and fast-track solution deployment",
+    "tags": [
+      "Pricing, CPQ, Loyalty",
+      "Product Management",
+      "Program Management"
+    ]
+  },
+  {
+    "company": "Accenture Strategy",
+    "project": "Rogers & Shaw",
+    "skill_bucket": "Sales Transformation",
+    "skill": "Merger & Acquisition- Territory Restructuring",
+    "situation": "Assess sales team performance, revenue centers, top and bottom performing accounts for post-merger acquisition plan",
+    "task": "Identify synergy scope and relationship drivers between wireline and wireless offerings post-merger",
+    "activity": "Review sales and sales team performance for potential merger of 2 companies worth CAD 20 Billion annual combined revenue",
+    "result": "Storyboarded the findings to be presented to the joint steering committee",
+    "resume_line": "Advised client on account allocation & tail account distribution with emphases on wireless business growth",
+    "tags": [
+      "Account Management",
+      "Sales Transformation"
+    ]
+  },
+  {
+    "company": "Accenture Strategy",
+    "project": "Schneider Electric",
+    "skill_bucket": "Sales Transformation",
+    "skill": "Sales Transformation",
+    "situation": "Identify best way to attract millenial customers & compete with upcoming D2C brands",
+    "task": "Lead sales transformation recommendation of the Home and Distributor electrical supplies vertical impacting $ 700 Mn revenue",
+    "activity": "Utilized push-pull channel limitations of the implemented distribution system to turn into competitive advantage against D2C competition",
+    "result": "Devised GTM revision for hybridization of sales team to unlock 33% additional coverage",
+    "resume_line": "Created hybrid sales role & capabilities framework to increase relevance with millenial customer base impacting $700 Mn revenue",
+    "tags": [
+      "Account Management",
+      "Sales Transformation"
+    ]
+  },
+  {
+    "company": "Accenture Strategy",
+    "project": "IFFCO GBS Assessment",
+    "skill_bucket": "Process Design",
+    "skill": "Current State Assessment",
+    "situation": "Assess Sales team activities for centralization potential",
+    "task": "Conduct current state maturity assessment workshops (by Sales L2 process)",
+    "activity": "Orchestrated FTE Validation across sales maturity assessment framework",
+    "result": "Assessed client maturity across 40 L3 capabilities across sales & marketing, highlighted pain points & opportunities​ under 10+ quick wins in Sales and Marketing and developed 5-year GBS transition roadmap​",
+    "resume_line": "Led current state assessment across customized sales & marketing framework over 40 L3 capabilities for centalization scoping & GBS feasibility review & recommendation",
+    "tags": [
+      "Sales Transformation",
+      "Lead to Order",
+      "Order to Cash"
+    ]
+  },
+  {
+    "company": "Accenture Strategy",
+    "project": "IFFCO GBS Design",
+    "skill_bucket": "Process Design",
+    "skill": "Org Design",
+    "situation": "Design Sales GBS Org to be process-centric & support pre-defined GBS operations",
+    "task": "Design high-level & detailed org, skills & competencies needed, and hiring waves",
+    "activity": "Created CoS & CoE team structures & distributed manpower basis FTE centralization across sales capability framework",
+    "result": "Aligned detailed org, roles & responsibilities with the GPO impacting 187 FTE",
+    "resume_line": "Devised future-state GBS Sales org, defiend roles & responsibilities across 12 roles and hiring plan for 187 FTE",
+    "tags": [
+      "Sales Transformation",
+      "Program Management"
+    ]
+  },
+  {
+    "company": "Accenture Strategy",
+    "project": "IFFCO GBS Design",
+    "skill_bucket": "Process Design",
+    "skill": "Process Design",
+    "situation": "Design GBS & BU engagement model to prepare for future-state operations",
+    "task": "Align L4-L5 activities and design processes with identified stakeholders",
+    "activity": "Created Target-state design capturing GBS modus operandi across owned processes, GBS & BU interaction, controls, KPIs & SLAs for robust compliance & value delivery",
+    "result": "Proposed global process design for 47 Sales areas at L4/L5 level for interaction between GBS and Business Units",
+    "resume_line": "Built sales GBS process maps & assessed fit-gap with 40 BUs to capture frequency, scope, regulatory, technological deviations",
+    "tags": [
+      "Sales Transformation",
+      "Lead to Order",
+      "Order to Cash"
+    ]
+  },
+  {
+    "company": "Accenture Strategy",
+    "project": "Grow Digital Commerce GTM MD&I",
+    "skill_bucket": "Biz Dev",
+    "skill": "Business Development",
+    "situation": "Create Commerce offerings & define GTM to enable leadership help solve client problems",
+    "task": "Build industry based stage 0 POVs to take to clients to help identify pain points and convert to projects",
+    "activity": "Devised Commerce GTM strategy for Accenture by developing industry offerings for High Tech, Telecom, Banking, Insurance, Software & e-Platforms",
+    "result": "Led engagements with multiple Accenture leadership stakeholders to craft client ready conversations covering digital commerce growth, complexity & Margin dilution in face of incresing competition",
+    "resume_line": "Identified Industry based commerce macro-trends to identify key pain points and client priorities across Hi-Tech, Banking, Insurance, SaaS industries leading to $350 Mn pipeline",
+    "tags": [
+      "Account Management",
+      "Lead to Order",
+      "Order to Cash"
+    ]
+  },
+  {
+    "company": "Accenture Strategy",
+    "project": "Apple KAM Training",
+    "skill_bucket": "Biz Dev",
+    "skill": "Business Development",
+    "situation": "Client felt the sales team needed a refresher on account management as the sales team didn't have B2B account management expertise of the same level as competitors",
+    "task": "Client wanted to upskill their sales team and certify the curriculum",
+    "activity": "Participated in RFP to build a curriculum and delivery plan for 125 AMs. The session was meant to be built in 3 parts- classroom training, train the trainer plan, and VILT model enablement",
+    "result": "Proposed a $150 k 3 week in-classroom plan which covered enterprise sales reps across 4 central areas planned jointly with a leading B-School as a sales management development program (MDP)",
+    "resume_line": "Built Modular classroom training proposal for 125 AMs",
+    "tags": [
+      "Account Management",
+      "Sales Transformation"
+    ]
+  },
+  {
+    "company": "Accenture Strategy",
+    "project": "Motorola Services Contract",
+    "skill_bucket": "Biz Dev",
+    "skill": "Business Development",
+    "situation": "Hardware centric client felt their lead to order and order to cash processes were not equipped to tackle the demand of their high growth services division",
+    "task": "Revise client's lead to cash processes with a strong focus on enabling renewals in the services business ecosystem",
+    "activity": "Built an RFP response and customized it to focus on contracts lifecycle management as a critically identified weak point of renewals strategy",
+    "result": "Proposed a $350k 8 week assessment and transformation strategy to build the renewed process and execution sepcifically for the Services business without exiiting their current tech architecture",
+    "resume_line": "Supported US on-shore team in building the lead-to-cash & renewals proposal focused on process streamlining, efficiency increment & roadmap to achieve modern Service Contracts lifecycle",
+    "tags": [
+      "Account Management",
+      "Sales Transformation",
+      "Lead to Order",
+      "Order to Cash"
+    ]
+  },
+  {
+    "company": "Accenture Strategy",
+    "project": "Google Cloud Chief of Staff",
+    "skill_bucket": "Strategy & Operations",
+    "skill": "GTM",
+    "situation": "Google Cloud's consulting division needed to scale rapidly across direct and partner-led sales channels.",
+    "task": "Define a future-ready GTM framework to streamline offering design, pricing, and delivery motions.",
+    "activity": "Co-developed offering structures by practice, centralized pricing links, and redesigned pre-sales engagement models.",
+    "result": "Reduced RFP turnaround time from ~2 months to 4 days and enabled faster go-to-market alignment across global teams.",
+    "resume_line": "Redesigned GTM model for global cloud consulting, optimizing offering structure and pricing alignment to reduce RFP turnaround from 2 months to 4 days.",
+    "tags": [
+      "Sales Transformation",
+      "Program Management"
+    ]
+  },
+  {
+    "company": "Accenture Strategy",
+    "project": "Google Cloud Chief of Staff",
+    "skill_bucket": "Strategy & Operations",
+    "skill": "Growth Enablement",
+    "situation": "Leadership lacked clarity on how pre-sales delivery was contributing to pipeline progression and revenue acceleration.",
+    "task": "Build visibility and tools to support data-driven decision-making for high-growth execution.",
+    "activity": "Designed novel deal-tracking dashboards and rule-based performance reviews; enabled 8-country adoption by integrating with GSD and BI teams.",
+    "result": "Achieved a 9x increase in dashboard DAU, improved tracking of sales contribution, and supported more predictable growth outcomes.",
+    "resume_line": "Built deal ownership dashboards adopted across 8 countries, driving 9x DAU growth and enabling scalable growth tracking across pre-sales teams.",
+    "tags": [
+      "Sales Transformation",
+      "Product Management",
+      "Program Management"
+    ]
+  },
+  {
+    "company": "Accenture Strategy",
+    "project": "Google Cloud Chief of Staff",
+    "skill_bucket": "Strategy & Operations",
+    "skill": "RCA Strategy & Insights",
+    "situation": "Fragmented ownership, inconsistent pipeline tracking, and unclear accountability across pre-sales teams were slowing strategic execution.",
+    "task": "Build a system to centralize ownership, surface actionable insights, and align sales processes to strategic goals.",
+    "activity": "Created deal ownership tracking mechanisms, collaborated across S&O, BI, and delivery to define KPIs and streamline governance.",
+    "result": "Significantly improved sales ops hygiene, boosted leader visibility, and laid groundwork for scalable operations at global level.",
+    "resume_line": "Designed end-to-end operating mechanisms to streamline GTM delivery and pipeline ownership across S&O, BI, and sales delivery functions.",
+    "tags": [
+      "Sales Transformation",
+      "Program Management"
+    ]
+  },
+  {
+    "company": "Accenture Strategy",
+    "project": "Google Cloud Chief of Staff",
+    "skill_bucket": "Program Management",
+    "skill": "Program Management",
+    "situation": "Scaling delivery and GTM operations across global markets required structured program oversight and cross-functional execution.",
+    "task": "Coordinate across teams to implement key GTM programs—pricing alignment, pipeline visibility, and resource allocation.",
+    "activity": "Managed program delivery between strategy, BI, sales, and GSD stakeholders; launched tools and reporting systems with global reach.",
+    "result": "Deployed offerings and dashboards used across 8 countries, driving faster turnaround and standardized execution globally.",
+    "resume_line": "Led global rollout of GTM tooling and governance, coordinating across strategy, sales, and delivery to scale execution across 8 markets.",
+    "tags": [
+      "Program Management"
+    ]
+  },
+  {
+    "company": "Accenture Strategy",
+    "project": "Google Cloud Chief of Staff",
+    "skill_bucket": "Sales Transformation",
+    "skill": "Sales Transformation",
+    "situation": "Legacy sales motions lacked clarity on engagement models, accountability, and turnaround expectations.",
+    "task": "Transform pre-sales structure to improve pipeline efficiency, team productivity, and strategic targeting.",
+    "activity": "Identified CRM pain points, implemented rule-based performance reviews, and advised on quota/territory realignment for high-touch teams.",
+    "result": "Improved sales coverage strategy, enhanced pipeline quality, and accelerated deal cycles through strategic restructuring.",
+    "resume_line": "Enabled sales org redesign through CRM pain point mapping, pipeline review automation, and strategic quota/territory realignment.",
+    "tags": [
+      "Sales Transformation",
+      "Program Management"
+    ]
+  },
+  {
+    "company": "Monitor Deloitte",
+    "project": "Dell Partner Strategy Assessment and Digital Transformation",
+    "skill_bucket": "Account Management",
+    "skill": "Channel Strategy",
+    "situation": "A global hardware & services provider’s partner/channel program was burdened by dozens of incentive plans, unclear partner classifications, and a legacy tech stack that couldn’t support a pending ERP migration",
+    "task": "As Strategy Consultant, I was asked to assess channel performance, partner types, and product hierarchies, then redesign the incentives framework to simplify plans, improve transparency, and align payouts with revenue goals",
+    "activity": "Conducted market and competitive benchmarking of channel incentive best practices, establishing clear performance tiers and KPIs \n\nRationalized incentive plans from 350 to 40 core programs, introducing standardized rebate and SPIFF structures that are easy to track and understand \n\nBuilt a centralized incentive repository and integrated it with the new ERP’s compensation module, automating payout calculations and reporting \n\nFacilitated cross‑functional workshops with Sales, Finance, and IT to align on plan rules and ensure smooth ERP integration",
+    "result": "Reduced incentive plan count by 68%, cutting administrative overhead and user confusion\n\nImproved payout‑to‑revenue alignment, enabling more accurate forecasting of channel spend and ROI\n\nLaid the groundwork for a scalable, ERP‑enabled incentives engine that supports future growth without manual intervention",
+    "resume_line": "Designed and executed a partner incentives transformation—streamlining 25 legacy plans into 8 core programs, centralizing compensation rules in a new ERP, and aligning payouts to revenue to reduce administrative load and improve ROI.",
+    "tags": [
+      "Sales Transformation",
+      "Lead to Order",
+      "Program Management"
+    ]
+  }
+]
