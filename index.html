@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Siddhant - Management Consultant</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f8fafc; /* slate-50 */
+            color: #0f172a; /* slate-900 */
+        }
+        .case-study-card {
+            transition: all 0.3s ease-in-out;
+            border: 1px solid #e2e8f0; /* slate-200 */
+        }
+        .case-study-card.highlight {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.07), 0 4px 6px -4px rgb(0 0 0 / 0.07);
+            border-color: #3b82f6; /* blue-500 */
+        }
+        .details-content {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.7s ease-in-out;
+        }
+        .skill-tag {
+            transition: all 0.2s ease;
+            cursor: pointer;
+        }
+        .skill-tag:hover {
+            transform: scale(1.05);
+            background-color: #3b82f6; /* blue-500 */
+            color: white;
+        }
+    </style>
+</head>
+<body class="antialiased">
+
+    <!-- Header & Hero Section -->
+    <header id="home" class="bg-white shadow-sm">
+        <nav class="container mx-auto px-6 py-4 flex justify-between items-center">
+            <div class="text-2xl font-bold text-slate-800">Siddhant</div>
+            <div class="hidden md:flex items-center space-x-6">
+                <a href="#experience" class="text-slate-600 hover:text-blue-500 transition">Experience</a>
+                <a href="#skills" class="text-slate-600 hover:text-blue-500 transition">Skills</a>
+                <a href="#contact" class="text-slate-600 hover:text-blue-500 transition">Contact</a>
+                <a href="https://raw.githubusercontent.com/your-username/your-repo-name/main/Siddhant_Resume.pdf" download="Siddhant_Resume.pdf" class="bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600 transition shadow">Download Resume</a>
+            </div>
+            <div class="md:hidden">
+                 <a href="https://raw.githubusercontent.com/your-username/your-repo-name/main/Siddhant_Resume.pdf" download="Siddhant_Resume.pdf" class="bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600 transition shadow-sm text-sm">Resume</a>
+            </div>
+        </nav>
+    </header>
+
+    <main class="container mx-auto px-6 py-12 md:py-20">
+        <section class="text-center max-w-4xl mx-auto">
+            <h1 class="text-4xl md:text-6xl font-bold text-slate-900 leading-tight">
+                Management Consultant Driving Growth Through Strategy & Transformation
+            </h1>
+            <p class="mt-6 text-lg md:text-xl text-slate-600">
+                Specializing in Go-to-Market Strategy, Sales Transformation, and Business Operations for leading Tech & SaaS companies.
+            </p>
+            <div class="mt-8 flex justify-center gap-4">
+                <a href="#experience" class="bg-slate-800 text-white px-8 py-3 rounded-md hover:bg-slate-900 transition shadow-lg text-lg">View My Work</a>
+            </div>
+        </section>
+
+        <!-- Experience / Case Studies Section -->
+        <section id="experience" class="mt-20 md:mt-32">
+            <h2 class="text-3xl md:text-4xl font-bold text-center text-slate-800">Professional Experience</h2>
+            <div id="case-studies-container" class="mt-12 grid gap-8 md:gap-10">
+                
+                <!-- Case Study 1: ZS Associates -->
+                <div class="case-study-card bg-white rounded-lg p-6 md:p-8" data-skills="GTM Strategy,Sales Transformation,Market Assessment,Financial Modeling,Project Management">
+                    <div class="flex flex-col md:flex-row gap-6 items-start">
+                        <img src="https://placehold.co/100x40/0f172a/white?text=ZS" alt="ZS Logo" class="h-10 w-auto rounded">
+                        <div class="w-full">
+                            <div class="flex justify-between items-start">
+                                <div>
+                                    <h3 class="text-xl font-bold text-slate-900">Business Consulting Manager</h3>
+                                    <p class="text-slate-600">ZS Associates</p>
+                                    <p class="text-sm text-slate-500 mt-1">Aug 2021 – Present</p>
+                                </div>
+                                <button class="toggle-details text-sm text-blue-500 font-semibold hover:text-blue-600 flex items-center gap-1">
+                                    <span>Learn More</span>
+                                    <svg class="w-4 h-4 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                                </button>
+                            </div>
+                            <div class="mt-4 text-slate-700 space-y-2">
+                                <p>Led GTM strategy and sales transformation projects for global SaaS and technology clients, driving significant revenue growth and operational efficiency.</p>
+                            </div>
+                            <div class="details-content mt-4 text-slate-700 border-t border-slate-200 pt-4">
+                                <ul class="list-disc list-inside space-y-2">
+                                    <li>Architected a new GTM strategy for a $1B SaaS firm by defining new market segments and optimizing sales territories, projecting a 15-20% increase in qualified leads.</li>
+                                    <li>Developed a financial model to assess the ROI of a new partner program, resulting in a 25% budget increase and executive buy-in.</li>
+                                    <li>Managed a cross-functional team to redesign the sales process for a major tech company, reducing sales cycle time by 18%.</li>
+                                    <li>Created a market assessment framework that identified a $50M whitespace opportunity in an adjacent vertical.</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Case Study 2: Accenture -->
+                <div class="case-study-card bg-white rounded-lg p-6 md:p-8" data-skills="Business Transformation,Process Optimization,Change Management,Data Analysis">
+                    <div class="flex flex-col md:flex-row gap-6 items-start">
+                        <img src="https://placehold.co/100x40/0f172a/white?text=Accenture" alt="Accenture Logo" class="h-10 w-auto rounded">
+                        <div class="w-full">
+                            <div class="flex justify-between items-start">
+                                <div>
+                                    <h3 class="text-xl font-bold text-slate-900">Management Consultant</h3>
+                                    <p class="text-slate-600">Accenture Strategy</p>
+                                    <p class="text-sm text-slate-500 mt-1">Jun 2019 – Jul 2021</p>
+                                </div>
+                                <button class="toggle-details text-sm text-blue-500 font-semibold hover:text-blue-600 flex items-center gap-1">
+                                    <span>Learn More</span>
+                                    <svg class="w-4 h-4 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                                </button>
+                            </div>
+                            <div class="mt-4 text-slate-700 space-y-2">
+                                <p>Delivered business transformation and process optimization initiatives for clients in the automotive and industrial sectors.</p>
+                            </div>
+                            <div class="details-content mt-4 text-slate-700 border-t border-slate-200 pt-4">
+                                <ul class="list-disc list-inside space-y-2">
+                                    <li>Led a process optimization project for a leading OEM, identifying automation opportunities that led to a 10% reduction in operational costs.</li>
+                                    <li>Conducted change management workshops for over 200 employees to ensure smooth adoption of a new CRM system.</li>
+                                    <li>Analyzed sales data to identify key performance drivers, providing insights that informed the national sales strategy.</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Case Study 3: Tata Motors -->
+                <div class="case-study-card bg-white rounded-lg p-6 md:p-8" data-skills="Sales Operations,Data Analysis,Channel Management">
+                    <div class="flex flex-col md:flex-row gap-6 items-start">
+                        <img src="https://placehold.co/100x40/0f172a/white?text=TATA" alt="Tata Motors Logo" class="h-10 w-auto rounded">
+                        <div class="w-full">
+                            <div class="flex justify-between items-start">
+                                <div>
+                                    <h3 class="text-xl font-bold text-slate-900">Manager, Sales & Operations</h3>
+                                    <p class="text-slate-600">Tata Motors</p>
+                                    <p class="text-sm text-slate-500 mt-1">Jun 2015 – May 2017</p>
+                                </div>
+                                <button class="toggle-details text-sm text-blue-500 font-semibold hover:text-blue-600 flex items-center gap-1">
+                                    <span>Learn More</span>
+                                    <svg class="w-4 h-4 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                                </button>
+                            </div>
+                            <div class="mt-4 text-slate-700 space-y-2">
+                                <p>Managed regional sales operations and channel partners, consistently exceeding sales targets for commercial vehicles.</p>
+                            </div>
+                            <div class="details-content mt-4 text-slate-700 border-t border-slate-200 pt-4">
+                                <ul class="list-disc list-inside space-y-2">
+                                    <li>Achieved 115% of the annual sales target by optimizing dealer networks and implementing targeted promotional campaigns.</li>
+                                    <li>Improved forecast accuracy by 20% through the implementation of a data-driven sales planning process.</li>
+                                    <li>Managed relationships with 50+ channel partners, providing training and support to boost performance.</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- Skills Section -->
+        <section id="skills" class="mt-20 md:mt-32">
+            <h2 class="text-3xl md:text-4xl font-bold text-center text-slate-800">Core Competencies</h2>
+            <div class="mt-12 max-w-4xl mx-auto flex flex-wrap justify-center gap-3 md:gap-4 text-center">
+                <div class="skill-tag bg-slate-200 text-slate-700 font-medium px-4 py-2 rounded-full" data-skill="GTM Strategy">Go-to-Market Strategy</div>
+                <div class="skill-tag bg-slate-200 text-slate-700 font-medium px-4 py-2 rounded-full" data-skill="Sales Transformation">Sales Transformation</div>
+                <div class="skill-tag bg-slate-200 text-slate-700 font-medium px-4 py-2 rounded-full" data-skill="Business Transformation">Business Transformation</div>
+                <div class="skill-tag bg-slate-200 text-slate-700 font-medium px-4 py-2 rounded-full" data-skill="Market Assessment">Market Assessment</div>
+                <div class="skill-tag bg-slate-200 text-slate-700 font-medium px-4 py-2 rounded-full" data-skill="Financial Modeling">Financial Modeling</div>
+                <div class="skill-tag bg-slate-200 text-slate-700 font-medium px-4 py-2 rounded-full" data-skill="Process Optimization">Process Optimization</div>
+                <div class="skill-tag bg-slate-200 text-slate-700 font-medium px-4 py-2 rounded-full" data-skill="Data Analysis">Data Analysis</div>
+                <div class="skill-tag bg-slate-200 text-slate-700 font-medium px-4 py-2 rounded-full" data-skill="Project Management">Project Management</div>
+                <div class="skill-tag bg-slate-200 text-slate-700 font-medium px-4 py-2 rounded-full" data-skill="Change Management">Change Management</div>
+                <div class="skill-tag bg-slate-200 text-slate-700 font-medium px-4 py-2 rounded-full" data-skill="Channel Management">Channel Management</div>
+            </div>
+        </section>
+
+        <!-- Contact Section -->
+        <section id="contact" class="mt-20 md:mt-32 text-center max-w-2xl mx-auto">
+            <h2 class="text-3xl md:text-4xl font-bold text-slate-800">Let's Connect</h2>
+            <p class="mt-4 text-lg text-slate-600">
+                I'm always open to discussing new opportunities in strategy and business operations. Feel free to reach out or download my resume.
+            </p>
+            <div class="mt-8 flex justify-center items-center gap-6">
+                <a href="mailto:siddhant.your.email@example.com" class="text-slate-600 hover:text-blue-500 font-semibold">your.email@example.com</a>
+                <a href="https://www.linkedin.com/in/yourprofile/" target="_blank" class="text-slate-600 hover:text-blue-500 font-semibold">LinkedIn</a>
+                <a href="https://raw.githubusercontent.com/your-username/your-repo-name/main/Siddhant_Resume.pdf" download="Siddhant_Resume.pdf" class="bg-blue-500 text-white px-6 py-3 rounded-md hover:bg-blue-600 transition shadow-lg">Download Resume</a>
+            </div>
+        </section>
+    </main>
+
+    <footer class="bg-white mt-20 md:mt-32 border-t border-slate-200">
+        <div class="container mx-auto px-6 py-6 text-center text-slate-500">
+            &copy; 2024 Siddhant. All Rights Reserved.
+        </div>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const caseStudiesContainer = document.getElementById('case-studies-container');
+            const skillTags = document.querySelectorAll('.skill-tag');
+            const caseStudyCards = document.querySelectorAll('.case-study-card');
+
+            // --- Toggle Case Study Details ---
+            caseStudiesContainer.addEventListener('click', function(e) {
+                const toggleButton = e.target.closest('.toggle-details');
+                if (toggleButton) {
+                    const card = toggleButton.closest('.case-study-card');
+                    const details = card.querySelector('.details-content');
+                    const icon = toggleButton.querySelector('svg');
+
+                    if (details.style.maxHeight && details.style.maxHeight !== '0px') {
+                        // Collapse
+                        details.style.maxHeight = '0px';
+                        toggleButton.querySelector('span').textContent = 'Learn More';
+                        icon.style.transform = 'rotate(0deg)';
+                    } else {
+                        // Expand
+                        details.style.maxHeight = details.scrollHeight + 'px';
+                        toggleButton.querySelector('span').textContent = 'Show Less';
+                        icon.style.transform = 'rotate(180deg)';
+                    }
+                }
+            });
+
+            // --- Skill Filtering ---
+            skillTags.forEach(tag => {
+                tag.addEventListener('click', function() {
+                    const selectedSkill = this.dataset.skill;
+
+                    // Reset all highlights and styles first
+                    caseStudyCards.forEach(card => card.classList.remove('highlight'));
+                    skillTags.forEach(t => {
+                        t.classList.remove('bg-blue-500', 'text-white');
+                        t.classList.add('bg-slate-200', 'text-slate-700');
+                    });
+                    
+                    // Apply new style to clicked tag
+                    this.classList.add('bg-blue-500', 'text-white');
+                    this.classList.remove('bg-slate-200', 'text-slate-700');
+
+                    // Highlight relevant case studies
+                    caseStudyCards.forEach(card => {
+                        const cardSkills = card.dataset.skills.split(',');
+                        if (cardSkills.includes(selectedSkill)) {
+                            card.classList.add('highlight');
+                        }
+                    });
+
+                    // Scroll to the experience section
+                    document.getElementById('experience').scrollIntoView({
+                        behavior: 'smooth'
+                    });
+                });
+            });
+        });
+    </script>
+
+</body>
+</html>
