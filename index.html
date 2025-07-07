@@ -11,8 +11,8 @@
     <style>
         body {
             font-family: 'Inter', sans-serif;
-            background-color: #0d1117; /* A deep, modern dark blue/gray */
-            color: #c9d1d9; /* Light gray for readability */
+            background-color: #0d1117;
+            color: #c9d1d9;
         }
         .glass-effect {
             background: rgba(13, 17, 23, 0.6);
@@ -20,71 +20,28 @@
             -webkit-backdrop-filter: blur(10px);
             border: 1px solid rgba(255, 255, 255, 0.1);
         }
-        .accent-text {
-            color: #58a6ff; /* A vibrant blue for accents */
-        }
-        .btn-primary {
-            background-color: #238636; /* GitHub green for primary CTA */
-            transition: background-color 0.3s ease;
-        }
-        .btn-primary:hover {
-            background-color: #2ea043;
-        }
-        .btn-secondary {
-            background-color: #21262d;
-            border: 1px solid #30363d;
-            transition: all 0.3s ease;
-        }
-        .btn-secondary:hover {
-            background-color: #30363d;
-            border-color: #8b949e;
-        }
-        .project-item.active {
-            background-color: rgba(88, 166, 255, 0.1);
-            border-left-color: #58a6ff;
-        }
-        #project-details-content {
-            transition: opacity 0.4s ease-in-out;
-        }
-        .fade-in {
-            opacity: 0;
-            animation: fadeIn 0.5s forwards;
-        }
-        @keyframes fadeIn {
-            to { opacity: 1; }
-        }
-        .skill-tag {
-            cursor: pointer;
-            transition: all 0.2s ease;
-        }
-        .skill-tag.active, .skill-tag:hover {
-            background-color: #58a6ff;
-            color: #0d1117;
-            transform: translateY(-2px);
-        }
-        /* Custom scrollbar for a modern look */
-        ::-webkit-scrollbar {
-            width: 8px;
-        }
-        ::-webkit-scrollbar-track {
-            background: #0d1117;
-        }
-        ::-webkit-scrollbar-thumb {
-            background: #21262d;
-            border-radius: 4px;
-        }
-        ::-webkit-scrollbar-thumb:hover {
-            background: #30363d;
-        }
+        .accent-text { color: #58a6ff; }
+        .btn-primary { background-color: #238636; transition: background-color 0.3s ease; }
+        .btn-primary:hover { background-color: #2ea043; }
+        .btn-secondary { background-color: #21262d; border: 1px solid #30363d; transition: all 0.3s ease; }
+        .btn-secondary:hover { background-color: #30363d; border-color: #8b949e; }
+        .project-item.active { background-color: rgba(88, 166, 255, 0.1); border-left-color: #58a6ff; }
+        #project-details-content { transition: opacity 0.4s ease-in-out; }
+        .fade-in { animation: fadeIn 0.5s forwards; }
+        @keyframes fadeIn { to { opacity: 1; } }
+        .skill-tag { cursor: pointer; transition: all 0.2s ease; }
+        .skill-tag.active, .skill-tag:hover { background-color: #58a6ff; color: #0d1117; transform: translateY(-2px); }
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: #0d1117; }
+        ::-webkit-scrollbar-thumb { background: #21262d; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #30363d; }
     </style>
 </head>
 <body class="antialiased">
 
-    <!-- Background Visual -->
     <div class="absolute top-0 left-0 w-full h-full z-0 opacity-10" style="background-image: radial-gradient(#21262d 1px, transparent 1px); background-size: 20px 20px;"></div>
 
     <div class="relative z-10">
-        <!-- Header -->
         <header class="sticky top-0 z-30 glass-effect">
             <nav class="container mx-auto px-6 py-4 flex justify-between items-center">
                 <a href="#" class="text-xl font-bold text-white">Rahul Jain</a>
@@ -100,7 +57,6 @@
         </header>
 
         <main class="container mx-auto px-6 py-16 md:py-24">
-            <!-- Hero Section -->
             <section id="home" class="text-center max-w-4xl mx-auto">
                 <h1 class="text-4xl md:text-6xl font-extrabold text-white leading-tight tracking-tight">
                     Driving Strategic Growth in the Digital Economy
@@ -113,32 +69,23 @@
                 </div>
             </section>
 
-            <!-- Experience Section -->
             <section id="experience" class="mt-24 md:mt-32">
                 <h2 class="text-3xl md:text-4xl font-bold text-center text-white">Professional Experience</h2>
                 <div class="mt-12 md:grid md:grid-cols-12 md:gap-12 glass-effect rounded-xl p-4 md:p-8 min-h-[600px]">
-                    <!-- Left Column: Project List -->
                     <div id="project-list" class="md:col-span-4 lg:col-span-3 overflow-y-auto max-h-[600px] pr-2">
                         <p class="text-gray-500">Loading experience...</p>
                     </div>
-                    <!-- Right Column: Project Details -->
                     <div class="md:col-span-8 lg:col-span-9 mt-8 md:mt-0">
-                        <div id="project-details-content">
-                             <!-- JS will populate this -->
-                        </div>
+                        <div id="project-details-content"></div>
                     </div>
                 </div>
             </section>
 
-            <!-- Skills Section -->
             <section id="skills" class="mt-24 md:mt-32">
                 <h2 class="text-3xl md:text-4xl font-bold text-center text-white">Core Competencies</h2>
-                <div id="skills-container" class="mt-12 max-w-4xl mx-auto flex flex-wrap justify-center gap-3 md:gap-4">
-                    <!-- JS will populate this -->
-                </div>
+                <div id="skills-container" class="mt-12 max-w-4xl mx-auto flex flex-wrap justify-center gap-3 md:gap-4"></div>
             </section>
 
-            <!-- Contact Section -->
             <section id="contact" class="mt-24 md:mt-32 text-center max-w-2xl mx-auto">
                 <h2 class="text-3xl md:text-4xl font-bold text-white">Let's Connect</h2>
                 <p class="mt-4 text-lg text-gray-400">
@@ -166,90 +113,67 @@
 
     <script>
         document.addEventListener('DOMContentLoaded', async function() {
-            // --- DOM Elements ---
             const projectListContainer = document.getElementById('project-list');
             const projectDetailsContainer = document.getElementById('project-details-content');
             const skillsContainer = document.getElementById('skills-container');
 
-            // --- State ---
             let activeSkills = [];
             let allResumeData = [];
-            let projectsByCompany = {};
 
-            // --- Data Fetching ---
             try {
-                // Fetch the resume data from the external JSON file.
                 const response = await fetch('./resume_data.json');
-                if (!response.ok) {
-                    throw new Error(`Network response was not ok: ${response.statusText}`);
-                }
+                if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
                 allResumeData = await response.json();
-                // --- Initial Load ---
                 initializePage(allResumeData);
-
             } catch (error) {
-                console.error('Failed to load resume data:', error);
+                console.error("Failed to load or parse resume data:", error);
                 projectListContainer.innerHTML = `<p class="text-red-400">Error: Could not load work experience data. Please ensure 'resume_data.json' is in the repository.</p>`;
             }
-            
-            function initializePage(resumeData) {
-                projectsByCompany = groupProjectsByCompany(resumeData);
-                renderProjectList(projectsByCompany);
-                renderSkills(resumeData);
 
-                // Add event listeners after data is loaded
+            function initializePage(data) {
+                renderProjectList(data);
+                renderSkills(data);
                 projectListContainer.addEventListener('click', handleProjectClick);
                 skillsContainer.addEventListener('click', handleSkillClick);
             }
 
-            // --- Functions ---
-            function groupProjectsByCompany(data) {
-                // Group by company, but also ensure a consistent order
-                const companyOrder = ['Monitor Deloitte', 'Accenture Strategy', 'HP Inc'];
-                const grouped = {};
-                companyOrder.forEach(c => {
-                    const companyProjects = data.filter(p => p.company === c);
-                    if(companyProjects.length > 0) {
-                        grouped[c] = companyProjects;
-                    }
-                });
-                // Add any other companies not in the predefined order
-                 data.forEach(project => {
-                    if (!grouped[project.company]) {
-                        (grouped[project.company] = grouped[project.company] || []).push(project);
-                    }
-                });
-                return grouped;
-            }
-
-            function renderProjectList(filteredData) {
-                const dataToRender = filteredData || projectsByCompany;
+            function renderProjectList(data) {
                 projectListContainer.innerHTML = '';
-                let isFirst = true;
-                
-                Object.keys(dataToRender).forEach(company => {
-                    const projects = dataToRender[company];
-                    const companyHtml = `<h3 class="text-lg font-bold text-white mt-6 mb-3 first:mt-0">${company}</h3>`;
+                let isFirstProject = true;
+
+                data.forEach((company, companyIndex) => {
+                    const companyHasVisibleProjects = company.projects.some(project => {
+                        if (activeSkills.length === 0) return true;
+                        return project.engagements.some(eng => activeSkills.every(skill => eng.tags.includes(skill)));
+                    });
+
+                    if (!companyHasVisibleProjects) return;
+
+                    const companyHtml = `<h3 class="text-lg font-bold text-white mt-6 mb-3 first:mt-0">${company.company}</h3>`;
                     projectListContainer.insertAdjacentHTML('beforeend', companyHtml);
 
-                    projects.forEach((project) => {
+                    company.projects.forEach((project, projectIndex) => {
+                        const projectIsVisible = activeSkills.length === 0 || project.engagements.some(eng => activeSkills.every(skill => eng.tags.includes(skill)));
+                        
+                        if (!projectIsVisible) return;
+
                         const projectHtml = `
-                            <div class="project-item p-4 rounded-lg cursor-pointer border-l-4 border-transparent transition-all duration-200 hover:bg-gray-800" data-project-id="${project.resume_line.substring(0, 30)}">
-                                <p class="font-semibold text-gray-200">${project.project}</p>
-                                <p class="text-sm text-gray-500">${project.skill_bucket}</p>
+                            <div class="project-item p-4 rounded-lg cursor-pointer border-l-4 border-transparent transition-all duration-200 hover:bg-gray-800" data-company-index="${companyIndex}" data-project-index="${projectIndex}">
+                                <p class="font-semibold text-gray-200">${project.projectName}</p>
                             </div>
                         `;
                         projectListContainer.insertAdjacentHTML('beforeend', projectHtml);
-                        if (isFirst) {
+
+                        if (isFirstProject) {
                             renderProjectDetails(project);
-                            // Use a more robust selector for the first item
                             const firstItem = projectListContainer.querySelector('.project-item');
-                            if(firstItem) firstItem.classList.add('active');
-                            isFirst = false;
+                            if (firstItem) firstItem.classList.add('active');
+                            isFirstProject = false;
                         }
                     });
                 });
-                if (Object.keys(dataToRender).length === 0) {
+                
+                if (isFirstProject) { // No projects were rendered
                     projectListContainer.innerHTML = `<p class="text-gray-400">No projects match the selected skills.</p>`;
                     projectDetailsContainer.innerHTML = '';
                 }
@@ -258,27 +182,24 @@
             function renderProjectDetails(project) {
                 projectDetailsContainer.style.opacity = 0;
                 setTimeout(() => {
+                    const allTags = [...new Set(project.engagements.flatMap(e => e.tags))];
+                    const engagementsHtml = project.engagements.map(eng => `
+                        <div class="mt-4 pt-4 border-t border-gray-800 first:mt-0 first:pt-0 first:border-none">
+                            <h4 class="font-semibold text-gray-100 mb-1">${eng.skill} <span class="text-sm font-normal text-gray-500">(${eng.skill_bucket})</span></h4>
+                            <p class="text-sm text-gray-400 mt-2"><strong class="text-gray-300">Situation:</strong> ${eng.situation}</p>
+                            <p class="text-sm text-gray-400 mt-1"><strong class="text-gray-300">Task:</strong> ${eng.task}</p>
+                            <p class="text-sm text-gray-400 mt-1"><strong class="text-gray-300">Result:</strong> ${eng.result}</p>
+                        </div>
+                    `).join('');
+
                     const detailsHtml = `
                         <div class="fade-in">
-                            <h3 class="text-2xl font-bold text-white">${project.project}</h3>
-                            <p class="accent-text font-semibold mt-1">${project.skill_bucket}</p>
-                            
+                            <h3 class="text-2xl font-bold text-white">${project.projectName}</h3>
                             <div class="mt-6 space-y-4 text-gray-300">
-                                <div>
-                                    <h4 class="font-semibold text-gray-100 mb-1">Situation</h4>
-                                    <p>${project.situation.replace(/\n/g, '<br>')}</p>
-                                </div>
-                                <div>
-                                    <h4 class="font-semibold text-gray-100 mb-1">Task</h4>
-                                    <p>${project.task.replace(/\n/g, '<br>')}</p>
-                                </div>
-                                <div>
-                                    <h4 class="font-semibold text-gray-100 mb-1">Result</h4>
-                                    <p>${project.result.replace(/\n/g, '<br>')}</p>
-                                </div>
+                                ${engagementsHtml}
                             </div>
                             <div class="mt-6 pt-4 border-t border-gray-700 flex flex-wrap gap-2">
-                                ${project.tags.map(tag => `<span class="bg-gray-700 text-gray-300 text-xs font-medium px-2.5 py-1 rounded-full">${tag}</span>`).join('')}
+                                ${allTags.map(tag => `<span class="bg-gray-700 text-gray-300 text-xs font-medium px-2.5 py-1 rounded-full">${tag}</span>`).join('')}
                             </div>
                         </div>
                     `;
@@ -286,34 +207,21 @@
                     projectDetailsContainer.style.opacity = 1;
                 }, 200);
             }
-            
-            function renderSkills(resumeData) {
-                const allSkills = [...new Set(resumeData.flatMap(p => p.tags))];
+
+            function renderSkills(data) {
+                const allSkills = [...new Set(data.flatMap(c => c.projects.flatMap(p => p.engagements.flatMap(e => e.tags))))];
                 allSkills.sort();
                 skillsContainer.innerHTML = allSkills.map(skill => `
                     <div class="skill-tag bg-gray-800 border border-gray-700 text-gray-300 font-medium px-4 py-2 rounded-full" data-skill="${skill}">${skill}</div>
                 `).join('');
             }
-            
-            function filterAndRender() {
-                let filteredProjects;
-                if (activeSkills.length === 0) {
-                    filteredProjects = allResumeData;
-                } else {
-                    filteredProjects = allResumeData.filter(project => 
-                        activeSkills.every(skill => project.tags.includes(skill))
-                    );
-                }
-                renderProjectList(groupProjectsByCompany(filteredProjects));
-            }
 
-            // --- Event Handlers ---
             function handleProjectClick(e) {
                 const targetItem = e.target.closest('.project-item');
                 if (!targetItem) return;
 
-                const projectId = targetItem.dataset.projectId;
-                const projectData = allResumeData.find(p => p.resume_line.substring(0, 30) === projectId);
+                const { companyIndex, projectIndex } = targetItem.dataset;
+                const projectData = allResumeData[companyIndex]?.projects[projectIndex];
                 
                 if (projectData) {
                     document.querySelectorAll('.project-item').forEach(item => item.classList.remove('active'));
@@ -321,7 +229,7 @@
                     renderProjectDetails(projectData);
                 }
             }
-            
+
             function handleSkillClick(e) {
                 const targetTag = e.target.closest('.skill-tag');
                 if (!targetTag) return;
@@ -334,7 +242,7 @@
                 } else {
                     activeSkills.push(skill);
                 }
-                filterAndRender();
+                renderProjectList(allResumeData);
             }
         });
     </script>
